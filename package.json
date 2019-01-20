@@ -1,0 +1,13 @@
+{
+  "name": "firebase-mocha-pending-connection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase": "^5.8.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha index.spec.js"
+  }
+}
